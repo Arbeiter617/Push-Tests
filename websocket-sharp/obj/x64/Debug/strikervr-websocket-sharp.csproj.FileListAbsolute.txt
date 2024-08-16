@@ -1,0 +1,45 @@
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CopyComplete
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.pdb
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.pdb
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.AssemblyReference.cache
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.pdb
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.xml
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.xml
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.AssemblyReference.cache
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CoreCompileInputs.cache
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CopyComplete
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.dll
+F:\Mod Dependencies\.net 4.2\Websocket-sharp_MelonLoader\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.pdb
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\strikervr-websocket-sharp.pdb
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\bin\x64\Debug\websocket-sharp.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.AssemblyReference.cache
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.csproj.CopyComplete
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\websocket-sharp\obj\x64\Debug\strikervr-websocket-sharp.pdb

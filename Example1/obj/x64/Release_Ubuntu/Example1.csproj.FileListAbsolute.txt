@@ -1,0 +1,18 @@
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.AssemblyReference.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\bin\x64\Release_Ubuntu\example1.exe
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\bin\x64\Release_Ubuntu\Newtonsoft.Json.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\bin\x64\Release_Ubuntu\websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\bin\x64\Release_Ubuntu\Newtonsoft.Json.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\bin\x64\Release_Ubuntu\websocket-sharp.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.CopyComplete
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example1\obj\x64\Release_Ubuntu\example1.exe
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\bin\x64\Release_Ubuntu\example1.exe
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\bin\x64\Release_Ubuntu\Newtonsoft.Json.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\bin\x64\Release_Ubuntu\websocket-sharp.dll
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\bin\x64\Release_Ubuntu\Newtonsoft.Json.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\bin\x64\Release_Ubuntu\websocket-sharp.xml
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.AssemblyReference.cache
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\obj\x64\Release_Ubuntu\Example1.csproj.CopyComplete
+C:\Users\Support\Downloads\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp-41be8790732bbc4bc8f2d1a8eb3fb77aab0f9c5d\websocket-sharp\Example1\obj\x64\Release_Ubuntu\example1.exe

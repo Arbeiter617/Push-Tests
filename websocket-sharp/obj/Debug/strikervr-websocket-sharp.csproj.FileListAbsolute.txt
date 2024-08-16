@@ -1,0 +1,6 @@
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\bin\Debug\websocket-sharp.pdb
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\Debug\strikervr-websocket-sharp.csproj.AssemblyReference.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\Debug\strikervr-websocket-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\websocket-sharp\obj\Debug\websocket-sharp.pdb

@@ -1,0 +1,9 @@
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\bin\Debug\example.exe
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\bin\Debug\example.pdb
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\bin\Debug\websocket-sharp.dll
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\bin\Debug\websocket-sharp.xml
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\obj\Debug\Example.csproj.CopyComplete
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\obj\Debug\example.exe
+C:\Users\Support\source\new websocket-sharp update\new websocket-sharp update\websocket-sharp\Example\obj\Debug\example.pdb
